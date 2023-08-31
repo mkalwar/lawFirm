@@ -1,0 +1,32 @@
+.wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 5%;
+    padding-left: 100px;
+    /* margin-left: 400px; */
+    /* width: 1132px; */
+    width: 100%;
+    color: var(--color-white);
+    background-color: #1d1d1d;
+  }
+  
+  .mainHeading {
+    width: 45%;
+    font-size: 4rem;
+    font-weight: 600;
+  }
+  
+  .vertical {
+    border: 1px solid #6A6A6A;
+    height: 30vh;
+  }
+  
+  .contentHeading {
+    font-size: 2rem;
+  }
+  
+  .content {
+    opacity: 30%;
+    font-size: 1.5rem;
+  }
